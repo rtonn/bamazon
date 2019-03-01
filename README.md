@@ -15,7 +15,10 @@ In order to run this application, you should have the MySQL database already set
       * However, if there is not enough of the product in stock, it will tell the user that there isn't enough of the product.
       * If the purchase goes through, it updates the stock quantity to reflect the purchase.
       * It will also update the product sales in the department table.
-
+      
+![bam1_items](https://user-images.githubusercontent.com/44482712/53617982-1dfdd200-3baf-11e9-9b6c-c238a6b643ee.png)
+![bam2](https://user-images.githubusercontent.com/44482712/53617987-21915900-3baf-11e9-884f-9f35961957e4.png)
+![bam3](https://user-images.githubusercontent.com/44482712/53617990-248c4980-3baf-11e9-9ed2-23181a04c234.png)
 
 
 ## Manager Interace

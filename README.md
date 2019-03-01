@@ -5,6 +5,7 @@ This application implements a simple command line based storefront using the npm
 
 ### MySQL Database Setup
 In order to run this application, you should have the MySQL database already set up on your machine. If you don't, visit the [MySQL installation page](https://dev.mysql.com/doc/refman/5.6/en/installing.html) to install the version you need for your operating system. Once you have MySQL installed, you will be able to create the *Bamazon* database and the *products* table with the SQL code found in [Bamazon.sql](Bamazon.sql). Run this code inside your MySQL client like [Sequel Pro](https://www.sequelpro.com/) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
+![sql](https://user-images.githubusercontent.com/44482712/53618691-155acb00-3bb2-11e9-8225-fae89a3db5b9.png)
 
 ## Customer Interface
 ### `BamazonCustomer.js`   

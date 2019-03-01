@@ -32,10 +32,22 @@ In order to run this application, you should have the MySQL database already set
     * End Session
 
 * If the manager selects `View Products for Sale`, it lists all of the products in the store including all of their details.
-
 * If the manager selects `View Low Inventory`, it'll list all the products with less than five items in its StockQuantity column.
-
 * If the manager selects `Add to Inventory`, it allows the manager to select a product and add inventory.
-
 * If the manager selects `Add New Product`, it allows the manager to add a new product to the store.
+
+# `Main Menu` screenshot:
+![mgr1](https://user-images.githubusercontent.com/44482712/53618135-a7ad9f80-3baf-11e9-8d56-d5ebd41eb56d.png)
+
+# `View Products for Sale` screenshot:
+![mgr2_low](https://user-images.githubusercontent.com/44482712/53618171-c9a72200-3baf-11e9-9050-af3d56779c4c.png)
+
+# `Add to Inventory` screenshot:
+![mgr2_addinv](https://user-images.githubusercontent.com/44482712/53618142-aed4ad80-3baf-11e9-939b-7914c02c61b6.png)
+
+# `View Low Inventory` screenshot:
+![mgr2_additem](https://user-images.githubusercontent.com/44482712/53618159-bd22c980-3baf-11e9-843c-b225653caee0.png)
+ 
+# `View Products for Sale` screenshot:
+![mgr2_show](https://user-images.githubusercontent.com/44482712/53618164-c449d780-3baf-11e9-81e4-027e752a4e7a.png)
 
